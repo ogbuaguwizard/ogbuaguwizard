@@ -1,10 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-**franciscoder/franciscoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Html5 Game Dev. 
+- 🔭 I’m currently working on ###Html5 Game Dev. 
 - 🌱 I’m currently learning Game Dev. and Data science
 - 👯 I’m looking to collaborate on Html5 Game Dev. Projects
 - 🤔 I’m looking for help with Money😕
