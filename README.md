@@ -7,6 +7,6 @@
 - 💬 Ask me about **Javascript** 👀
 - 📫 How to reach me: ***Twitter*** or ***Email***,  link on my **bio**. 
 - 😄 Pronouns: **He**, **Maestro**. 
-- ⚡ Fun fact: **I'm an *Artist*** 😎.. *@ogbuagu*
+- ⚡ Fun fact: **I'm an *Artist*** 😎 *[click to see](https://instagram.com/ogbuagu.art?igshid=YmMyMTA2M2Y=)*
 - ❤ Thanks,love ya! 
 - 🙏 Support me 😶
