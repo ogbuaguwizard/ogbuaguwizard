@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on **Html5 Game Dev. 
+- 🔭 I’m currently working on ** Html5 Game Dev **. 
 - 🌱 I’m currently learning ### Game Dev. and ### Data science
 - 👯 I’m looking to collaborate on ### Html5 Game Dev. Projects
 - 🤔 I’m looking for help with ### Money😕
