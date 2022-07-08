@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **Html5 Game Dev. Projects**
 - 🤔 I’m looking for help with ***Money***😕
 - 💬 Ask me about **Javascript** 👀
-- 📫 How to reach me: ***Twitter*** or ***Email***,  link on my **bio**. 
+- 📫 How to reach me: ***Twitter*** or ***Email***, links on my **bio**. 
 - 😄 Pronouns: **He**, **Maestro**. 
 - ⚡ Fun fact: **I'm an *Artist*** 😎 *[click to see](https://instagram.com/ogbuagu.art?igshid=YmMyMTA2M2Y=)*
 - ❤ Thanks,love ya! 
