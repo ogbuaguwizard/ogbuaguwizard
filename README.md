@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 👶 Just beginning my journey in the tech. worldg
+- 👶 Just beginning my journey in the tech. world
 - 💻 I’m currently working on **Html5 Game Dev**. 
 - 📚 I’m currently learning **Game Dev**. and **Data science**
 - 👯 I’m looking to collaborate on **Html5 Game Dev. Projects**
