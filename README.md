@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-- 👶 Just beginning my journey in the tech. world
-- 💻 I’m currently working on **Html5 Game Dev**. 
-- 📚 I’m currently learning **Game Dev**. and **Data science**
-- 👯 I’m looking to collaborate on **Html5 Game Dev. Projects**
-- 🤔 I’m looking for help with ***Money***😕
-- 💬 Ask me about **Javascript** 👀
-- 📫 How to reach me: ***Twitter*** or ***Email***, links on my **bio**. 
-- 😄 Pronouns: **He**, **Maestro**. 
+- 🧙 I'm very curious and enthusiastic about everything around me, and how i can use tech to make them even better 
+- 💻 I’m currently working on **Game Dev and Machine Learning projects**. 
+- 📚 I’m currently learning **Game Dev, Machine learning** and **Data Analysis**
+- 👯 I’m looking to collaborate on **Game Dev, Machine Learning Projects and A.I research**
+- 🤔 I’m looking for help with ***Mentorship and Internship***😕
+- 💬 Ask me about **Games, Machine Learning, Data Analysis** 👀
+- 📫 How to reach me: ***Twitter, LinkedIn*** or ***Email***, links on my **bio**. 
+- 😄 Pronouns: **He/Him**, **Maestro**. 
 - ⚡ Fun fact: **I'm an *Artist*** 😎 *[click to see](https://instagram.com/ogbuagu.art?igshid=YmMyMTA2M2Y=)*
 - ❤ Thanks,love ya! 
 - 🙏 Support me 😶
