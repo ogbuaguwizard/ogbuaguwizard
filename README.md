@@ -16,4 +16,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogbuaguwizard&show_icons=true&locale=en&layout=compact" alt="ogbuaguwizard" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogbuaguwizard&" alt="ogbuaguwizard" /></p>
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ogbuaguwizard" alt="GitHub Streak" /></a>
