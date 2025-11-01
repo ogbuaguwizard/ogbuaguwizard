@@ -14,6 +14,6 @@
 
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogbuaguwizard&show_icons=true&locale=en&layout=compact" alt="ogbuaguwizard" /></p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogbuaguwizard&show_icons=true&theme=radical)
 
-<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=ogbuaguwizard" alt="GitHub Streak" /></a>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ogbuaguwizard)](https://git.io/streak-stats)
