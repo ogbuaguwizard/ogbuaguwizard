@@ -11,3 +11,9 @@
 - ⚡ Fun fact: **I'm an *Artist*** 😎 *[click to see](https://instagram.com/ogbuagu.art?igshid=YmMyMTA2M2Y=)*
 - ❤ Thanks,love ya! 
 - 🙏 Support me 😶
+
+
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ogbuaguwizard&show_icons=true&locale=en&layout=compact" alt="ogbuaguwizard" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ogbuaguwizard&" alt="ogbuaguwizard" /></p>
