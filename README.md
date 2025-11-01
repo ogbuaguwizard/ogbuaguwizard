@@ -64,12 +64,6 @@
 
 ---
 
-### 🎨 Aesthetic Touch
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ogbuaguwizard/ogbuaguwizard/main/assets/animated-banner.gif" alt="Animated Banner" width="500px"/>
-</p>
-
 > _“Innovation is born where curiosity meets creativity.”_  
 > — **Francis Ogbuagu**
 
