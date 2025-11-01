@@ -13,7 +13,8 @@
 - 💻 Currently working on **Machine Learning** and **Web Development** projects.  
 - 📚 Learning **Game Development**, **Machine Learning**, and **Full-Stack Web Development**.  
 - 👯 Looking to collaborate on **AI Research**, **Open-Source ML Projects**, and **Tech for Impact**.  
-- 📫 Reach me:  
+- 📫 Reach me:
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23E94F37.svg?style=flat&logo=Firefox&logoColor=white)](https://francis.ogbuaguweb.com)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/francis_wizard) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/francisogbuagu) 
   [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:francis@ogbuaguweb.com)
