@@ -48,8 +48,7 @@
 - 🤖 Aspect-Based Sentiment Analysis for App Reviews  
 
 🎨 **Creative Works**
-- 🖼️ [Instagram Art Gallery](https://instagram.com/ogbuaguart?igshid=YmMyMTA2M2Y=)  
-- ✍️ Digital and Pencil Sketches  
+- 🖼️ [Instagram Art Gallery](https://instagram.com/ogbuaguart?igshid=YmMyMTA2M2Y=)
 
 ---
 
