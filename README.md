@@ -18,7 +18,7 @@
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/francis_wizard) 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/francisogbuagu) 
   [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat&logo=gmail&logoColor=white)](mailto:francis@ogbuaguweb.com)
-- ⚡ Fun fact: I'm also an **Artist!** 😎 [See my work →](https://instagram.com/ogbuaguart?igshid=YmMyMTA2M2Y=)
+- ⚡ Fun fact: I'm also an **Artist!** 😎 [See my work →](https://instagram.com/imfrancisogbuagu?igshid=YmMyMTA2M2Y=)
 - ❤️ Thanks for visiting my profile — love ya!  
 - 🙏 Support me by starring a repo or sharing my work 💪  
 
@@ -57,8 +57,8 @@
 <p align="center">
   <a href="https://twitter.com/francis_wizard" target="_blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://linkedin.com/in/francisogbuagu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:francis@ogbuaguweb.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://instagram.com/ogbuaguart" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="mailto:imfrancisogbuagu@gmail.com"><img src="https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://instagram.com/imfrancisogbuagu" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
 
 ---
