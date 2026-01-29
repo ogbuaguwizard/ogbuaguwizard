@@ -47,9 +47,6 @@
 - 🌾 Maize Leaf Disease Detection using Vision Transformers  
 - 🤖 Aspect-Based Sentiment Analysis for App Reviews  
 
-🎨 **Creative Works**
-- 🖼️ [Instagram Art Gallery](https://instagram.com/ogbuaguart?igshid=YmMyMTA2M2Y=)
-
 ---
 
 ### 🌐 Connect with Me
