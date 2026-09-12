@@ -75,7 +75,7 @@ Extracts lecturer names, aspects, opinions, and sentiment from student feedback 
 
 ## Professional Experience
 
-**Software Engineer (Contract)** — Peter Fleming Art Limited · *Nov 2023 – Present*
+**Software Engineer (Contract)** — Peterfleming Art Limited · *Nov 2023 – Present*
 Designed and built a Laravel-based institutional management platform: participant portals for interns/students, admin portals for artworks/artists/inventory, and features for event registration, ticketing, and QR-based check-in.
 
 **Software Engineer** — Yela Art Foundation · *2025 – Present*
