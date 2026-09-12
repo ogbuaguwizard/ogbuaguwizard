@@ -40,7 +40,7 @@ Full-stack Laravel platform for a gospel music ministry: performance/recording b
 - Privacy-conscious anonymous visitor tracking via fingerprinting (no demographic data collected)
 - **Stack:** Laravel, PHP, MySQL, Paystack, Cloudinary
 
-*Both repos are public case-study write-ups of proprietary client work (source is private, as noted in each README) — good for showing scope and architecture decisions to recruiters.*
+*Both repos are public case-study write-ups of proprietary client work (source is private, as noted in each README).*
 
 ### 🚧 In Progress
 
