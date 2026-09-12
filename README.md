@@ -20,7 +20,7 @@ Software Engineer with 4+ years across web development, machine learning, and da
 
 - 🔭 Currently building institutional and event-management platforms for arts organizations, plus ML tools for practical, real-world problems.
 - 🌍 Based in Nigeria, working with organizations remotely.
-- 📫 Reach me via [LinkedIn](https://linkedin.com/in/francisogbuagu) or [portfolio](https://francis.ogbuaguweb.com).
+- 📫 Reach me via [LinkedIn](https://linkedin.com/in/francisogbuagu), [Instagram](https://www.instagram.com/imfrancisogbuagu), or [email](mailto:imfrancisogbuagu@gmail.com).
 
 ---
 
