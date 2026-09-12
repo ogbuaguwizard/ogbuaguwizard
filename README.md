@@ -29,7 +29,7 @@ Software Engineer with 4+ years across web development, machine learning, and da
 ### 🏗️ Full-Stack Platforms — Live, In Production
 
 **[Art Institution Management Platform](https://github.com/ogbuaguwizard/art-institution-management-platform)** — [Live site](https://peterflemingart.com/)
-Full-stack Laravel platform running Peter Fleming Arts' day-to-day operations: galleries, exhibitions, artists, events with QR ticketing and check-in, an internship/participant pipeline (application → onboarding → assignments → certificates), an art-supply store with sales tracking, and an early AI-assisted image tool for artists.
+Full-stack Laravel platform running Peterfleming Arts' day-to-day operations: galleries, exhibitions, artists, events with QR ticketing and check-in, an internship/participant pipeline (application → onboarding → assignments → certificates), an art-supply store with sales tracking, and an early AI-assisted image tool for artists.
 - Role-based access via separate admin/user auth guards and Laravel policies (Super Admin / Admin / sector-scoped Moderator)
 - Service-layer architecture, automated ticket/PDF/QR generation, Cloudinary media, Mailjet email, GitHub Actions → shared-hosting CI/CD
 - **Stack:** Laravel, PHP, Alpine.js, Tailwind CSS, MySQL
